@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-03">
+  <title>December 16 <ndash/> December 20</title>
+  <!-- <table> -->
+  <!--   <title>Week 3</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>12/16</cell>
+      <cell>12/17</cell>
+      <cell>12/18</cell>
+      <cell>12/19</cell>
+      <cell>12/20</cell>
+    </row>
+    <row>
+      <cell>
+	<p>
+	  <url href="https://understandinglinearalgebra.org/sec-matrices-lin-combs.html" visual="">2.2 Matrix multiplication and linear combinations </url>
+	</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>
+	  <url href="https://understandinglinearalgebra.org/sec-matrices-lin-combs.html" visual="">2.2 Matrix multiplication and linear combinations </url>
+	  <url href="https://understandinglinearalgebra.org/sec-span.html" visual="">2.3 The span of a set of vectors </url>
+	</p>
+      </cell>
+      <cell>
+	<p>
+	</p>
+      </cell>
+      <cell>
+	<p>
+	  <url href="https://understandinglinearalgebra.org/sec-span.html" visual="">2.3 The span of a set of vectors </url>
+	</p>
+      </cell>
+    </row>
+  </tabular>
+</subsection>

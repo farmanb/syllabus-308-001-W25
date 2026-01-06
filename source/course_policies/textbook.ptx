@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="textbook">
+  <title>Textbook</title>
+  <assemblage>
+    <title>Required Textbook</title>
+    <p>
+      The required text for this course is
+      <pubtitle>Understanding Linear Algebra</pubtitle> by David Austin.
+      This textbook is freely available in 
+      <url href="https://understandinglinearalgebra.org/ula.html" visual="understandinglinearalgebra.org/ula.html"><init>HTML</init> format</url>
+      and in <url href="https://scholarworks.gvsu.edu/books/26/"><init>PDF</init> format.</url>
+      If you so desire, you may also obtain a <url href="https://www.619wreath.com/ula.html">low-cost print version.</url>
+    </p>
+  </assemblage>
+</subsection>

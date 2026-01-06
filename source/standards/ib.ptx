@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="invertibility_and_bases">
+  <title>Invertibility and Bases (IB)</title>
+  <subsubsection xml:id="invertibility_and_bases_1">
+    <title>Invertibility and Bases 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>use Gaussian Elimination to determine whether a matrix is invertible,</p>
+	  </li>
+	  <li>
+	    <p>find the inverse of an invertible matrix.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-matrix-inverse.html" visual="">Section 3.1</url>, Exercises 1, 3, 4.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="invertibility_and_bases_2">
+    <title>Invertibility and Bases 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>find a basis for a space,</p>
+	  </li>
+	  <li>
+	    <p>translate between the coordinate systems for different bases.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-bases.html" visual="">Section 3.2</url>, Exercises 1 <ndash/> 4.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="invertibility_and_bases_3">
+    <title>Invertibility and Bases 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>compute the determinant of a given matrix,</p>
+	  </li>
+	  <li>
+	    <p>use the determinant to determine whether a matrix is invertible.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-determinants.html" visual="">Section 3.4</url>, Exercises 1, 3 <ndash/> 4, 6.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="invertibility_and_bases_4">
+    <title>Invertibility and Bases 4</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>find a basis for the null space of a given matrix,</p>
+	  </li>
+	  <li>
+	    <p>find a basis for the column space of a given matrix,</p>
+	  </li>
+	  <li>
+	    <p>determine whether a given set satisfies the definition of a vector space.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert><url href="https://davidaustinm.github.io/ula/sec-subspaces.html" visual="">Section 3.5</url>, Exercises 1 <ndash/> 2, 5.
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>

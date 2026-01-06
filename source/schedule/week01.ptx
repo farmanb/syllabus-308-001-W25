@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-01">
+  <title>December 2 <ndash/> December 6</title>
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>12/2</cell>
+      <cell>12/3</cell>
+      <cell>12/4</cell>
+      <cell>12/5</cell>
+      <cell>12/6</cell>
+    </row>
+    <row>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<!-- <p>First Day of Classes</p> -->
+	<p>
+	  <url href="https://understandinglinearalgebra.org/sec-expect.html" visual="">1.1 What we can expect</url>
+	</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>
+	  <url href="https://understandinglinearalgebra.org/sec-finding-solutions.html" visual="">1.2 Finding solutions to linear systems</url>
+	</p>
+      </cell>
+    </row>
+  </tabular>
+</subsection>

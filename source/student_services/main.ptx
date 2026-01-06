@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="student_services" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Student Services</title>
+
+  <xi:include href="disability.ptx"/>
+  <xi:include href="counseling.ptx"/>
+  <xi:include href="nondiscrimination.ptx"/>
+  <xi:include href="ens.ptx"/>
+
+  <subsection xml:id="W25-withdraw_deadline">
+    <title>Drop with a <q>W</q> date</title>
+    <p>
+      The latest date a student may drop a course (or resign his/her entire schedule) with a <q>W</q> grade for Winter 2024 <ndash/> 25 is Friday, February 7, 2025.
+    </p>
+  </subsection>
+
+  <xi:include href="lms_help.ptx"/>
+
+</section>

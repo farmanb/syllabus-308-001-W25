@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="systems_of_equations">
+  <title>Systems of Equations (SE)</title>
+  <subsubsection xml:id="systems_of_equations_1">
+    <title>Systems of Equations 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>identify whether or not a matrix is in Reduced Row Echelon Form,</p>
+	  </li>
+	  <li>
+	    <p>use Gaussian Elimination to put a matrix into Reduced Row Echelon Form,</p>
+	  </li>
+	  <li>
+	    <p>use the Reduced Row Echelon Form of an augmented matrix to describe the solution space to a system of linear equations using appropriate notation.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-finding-solutions.html" visual="">Section 1.2</url>, Exercises 1 <ndash/> 2.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="systems_of_equations_2">
+    <title>Systems of Equations 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>use Pivot Positions to determine whether a linear system is consistent,</p>
+	    <p>determine whether the solution to a consistent linear system is unique.</p>
+	  </li>
+	</ul>
+      </p>
+      <p><alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-pivots.html" visual="">Section 1.4</url>, Exercises 1 <ndash/> 3.</p>
+    </assemblage>
+  </subsubsection>
+</subsection>

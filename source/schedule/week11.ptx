@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="week-11">
+  <title>February 24<ndash/> February 28</title>
+  <!-- <table> -->
+  <!--   <title>Week 12</title> -->
+  <!-- </table> -->
+  <tabular halign="center">
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <col width="20%"/>
+    <row header="yes" bottom="minor" >
+      <cell>2/24</cell>
+      <cell>2/25</cell>
+      <cell>2/26</cell>
+      <cell>2/27</cell>
+      <cell>2/28</cell>
+    </row>
+    <row>
+      <cell>
+	<p>
+	  <alert>Review</alert>
+	</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+      <cell>
+	<p>
+	  <alert>Final Reassessment</alert>
+	</p>
+      </cell>
+      <cell>
+	<p>
+	  <alert>Last Day of Classes</alert>
+	</p>
+      </cell>
+      <cell>
+	<p></p>
+      </cell>
+    </row>
+  </tabular>
+</subsection>

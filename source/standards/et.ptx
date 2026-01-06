@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="eigentheory">
+  <title>Eigentheory (ET)</title>
+  <subsubsection xml:id="eigentheory_1">
+    <title>Eigentheory 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>determine whether a vector is an eigenvector of a given matrix,</p>
+	  </li>
+	  <li>
+	    <p>find the eigenvalue associated to an eigenvector.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-eigen-intro.html" visual="">Section 4.1</url>, Exercises 1 <ndash/> 2, 5 <ndash/> 6.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="eigentheory_2">
+    <title>Eigentheory 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>use the characteristic polynomial to find the eigenvalues of a given matrix,</p>
+	  </li>
+	  <li>
+	    <p>find the algebraic and geometric multiplicities of eigenvalues,</p>
+	  </li>
+	  <li>
+	    <p>find a basis for the eigenspace associated to an eigenvalue.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-eigen-find.html" visual="">Section 4.2</url>, Exercises 1 <ndash/> 2, 5.
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="eigentheory_3">
+    <title>Eigentheory 3</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>determine whether a given matrix is diagonalizable,</p>
+	  </li>
+	  <li>
+	    <p>diagonalize a diagonalizable matrix.</p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert> <url href="https://davidaustinm.github.io/ula/sec-eigen-diag.html" visual="">Section 4.3</url>, Exercises 1 <ndash/> 2, 7.
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>

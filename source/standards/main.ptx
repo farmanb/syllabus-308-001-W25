@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="standards" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Standards</title>
+  <!-- Linear Algbera -->
+  <xi:include href="./se.ptx" />
+  <xi:include href="./vm.ptx" />
+  <xi:include href="./ib.ptx" />
+  <xi:include href="./et.ptx" />
+  <xi:include href="./or.ptx" />
+</section>
